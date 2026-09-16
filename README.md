@@ -26,7 +26,7 @@
 * **用途：** 負責管理 Linux 系統（常見於 CentOS / RHEL / Rocky Linux 等）中 `ens160` 實體網卡的網路連線組態。
 * **常見路徑：** `/etc/sysconfig/network-scripts/ifcfg-ens160` 或經由 `NetworkManager` 進行管理。
 * **維護重點：** 紀錄與配置靜態 IP 位址（Static IP）、子網路遮罩（Netmask）、預設閘道（Gateway）以及 DNS 伺服器等網卡參數。
-
+* **[公司網站](http://127.0.0.1)
 ---
 
 ## 🚀 使用與更新說明
